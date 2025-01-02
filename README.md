@@ -25,8 +25,8 @@
 ###
 
 <ul>
-  <li>° ☕Não consigo estudar sem tomar um café bem forte antes. ☕</li>
-  <li>° Gosto de ouvir músicas inspiradoras antes de começar novos projetos.</li>
+  <li> ☕Não consigo estudar sem tomar um café bem forte antes.☕</li>
+  <li> 🎵Gosto de ouvir músicas inspiradoras antes de começar novos projetos.🎵</li>
 </ul>
 
 ###

@@ -20,11 +20,14 @@
 
 ###
 
-<h2 align="left">Uma peculiaridade:</h2>
+<h2 align="left">Peculiaridades:</h2>
 
 ###
 
-<p align="left">☕Não consigo estudar sem tomar um café bem forte antes.☕</p>
+<ul>
+  <li>° ☕Não consigo estudar sem tomar um café bem forte antes. ☕</li>
+  <li>° Gosto de ouvir músicas inspiradoras antes de começar novos projetos.</li>
+</ul>
 
 ###
 

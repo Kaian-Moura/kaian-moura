@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="left">E aí 👋, Tudo bem?</h1>
 
-<!--
-**Kaian-Moura/kaian-moura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Olá! Meu nome é Kaian Moura, tenho 20 anos e  sou estudante do curso de ADM Tech no Inteli e tenho uma grande paixão por tecnologia.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgur.com/WRWR3BE.jpeg"  />
+</div>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Desmontando e montando coisas para entender como elas funcionam desde os meus 12 anos.<br>📚 Às vezes, gosto de escrever poemas.<br>🎙️ Michael Jackson é meu cantor favorito<br>🎲 Fato interessante: Eu montava computadores para vender.<br> 🤹 Habilidades: Editar vídeos, jogar futebol, Excel, Montagem de computadores e servidores<br>❤️Paixão por construir coisas</p>
+
+###
+
+<h2 align="left">Uma peculiaridade:</h2>
+
+###
+
+<p align="left">☕Não consigo estudar sem tomar um café bem forte antes.☕</p>
+
+###
+
+<h2 align="left">Objetivo:</h2>
+
+###
+
+<p align="left">✨Meu objetivo é buscar formas de melhorar o mundo e transformá-lo em um lugar melhor por meio da tecnologia.✨</p>
+
+###
+
+<h2 align="left">Minhas redes sociais:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kaian-moura-56b8871b4/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/kaian_moura" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###

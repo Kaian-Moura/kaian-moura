@@ -8,7 +8,6 @@
 ###
 
 <div align="center">
-  <!-- Sua imagem existente -->
   <img height="200" src="https://i.imgur.com/WRWR3BE.jpeg" />
   
 </div>
@@ -18,7 +17,7 @@
 <h2 align="left">Sobre mim</h2>
 
 ###
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 <p align="left">✨ Desmontando e montando coisas para entender como elas funcionam desde os meus 12 anos.<br>📚 Às vezes, gosto de escrever poemas.<br>🎙️ Michael Jackson é meu cantor favorito<br>🎲 Fato interessante: Eu montava computadores para vender.<br> 🤹 Habilidades: Editar vídeos, jogar futebol, Excel, Montagem de computadores e servidores<br>❤️Paixão por construir coisas</p>
 
 ###

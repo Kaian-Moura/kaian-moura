@@ -17,7 +17,7 @@
 <h2 align="left">Sobre mim</h2>
 
 ###
-<img align="right" alt="jpeg" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/vetunopc.jpeg" width="170px"/>
+<img align="right" alt="jpeg" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/vetunopc.jpeg" width="200px"/>
 <p align="left">✨ Desmontando e montando coisas para entender como elas funcionam desde os meus 12 anos.<br>📚 Às vezes, gosto de escrever poemas.<br>🎙️ Michael Jackson é meu cantor favorito<br>🎲 Fato interessante: Eu montava computadores para vender.<br> 🤹 Habilidades: Editar vídeos, jogar futebol, Excel, Montagem de computadores e servidores<br>❤️Paixão por construir coisas</p>
 
 ###

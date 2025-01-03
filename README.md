@@ -56,6 +56,5 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robo&size=23&pause=1000&color=F70000&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Tenho+prazer+em+ser+Inteler;2025.1)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Robo&size=23&pause=1000&color=F70000&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Tenho+prazer+em+ser+Inteler" alt="Typing SVG" /></a>
 ###

@@ -41,13 +41,13 @@
 
 ###
 
-<h2 align="left">Meu Buddy</h2>
+<h2 align="left">Meu Buddy:</h2>
 
 ###
 
 <img align="right" alt="jpeg" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/110629737.jfif" width="100px"/>
-<p align="left">✨ Estou sendo acompanhado pelo ótimo veterando: <strong style="color: #00008B;">Fábio Piemonte.</strong> Obrigado por me ajudar nessa nova jornada </p>
-<p align="left">✨ Vamos crescer juntos </p>
+<p align="left">🙏 Estou sendo acompanhado pelo ótimo veterano: <strong style="color: #00008B;">Fábio Piemonte.</strong> Obrigado por me ajudar nessa nova jornada.🙏 </p>
+<p align="left">📈Vamos crescer juntos!📈 </p>
 
 ###
  

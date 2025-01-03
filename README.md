@@ -2,12 +2,14 @@
 
 ###
 
-<p align="left">Olá! Meu nome é <strong><span style="color: #00008B;">Kaian Moura</span></strong>, tenho 20 anos e sou estudante do curso de ADM Tech no Inteli e tenho uma grande paixão por tecnologia.</p>
+<p align="left">Olá! Meu nome é <strong style="color: #00008B;">Kaian Moura</strong>, tenho 20 anos e sou estudante do curso de ADM Tech no Inteli e tenho uma grande paixão por tecnologia.</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/WRWR3BE.jpeg"  />
+  <!-- Sua imagem existente -->
+  <img height="200" src="https://i.imgur.com/WRWR3BE.jpeg" />
+  
 </div>
 
 ###
@@ -54,6 +56,6 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Robo&size=23&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Tenho+prazer+em+ser+Inteler" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Robo&size=23&pause=1000&color=F70000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&random=falso&width=435&lines=Tenho+prazer+em+ser+Inteler;2025.1" alt="Typing SVG" /></a>
 
 ###

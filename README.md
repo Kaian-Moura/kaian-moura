@@ -17,7 +17,7 @@
 <h2 align="left">Sobre mim</h2>
 
 ###
-<img align="right" alt="jpeg" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/vetunopc.jpeg" width="200px"/>
+<a href="https://www.instagram.com/vetuno.informatica"><img align="right" alt="jpeg" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/vetunopc.jpeg" width="200px"/></a>
 <p align="left">✨ Desmontando e montando coisas para entender como elas funcionam desde os meus 12 anos.<br>📚 Às vezes, gosto de escrever poemas.<br>🎙️ Michael Jackson é meu cantor favorito<br>🎲 Fato interessante: Eu montava computadores para vender.<br> 🤹 Habilidades: Editar vídeos, jogar futebol, Excel, Montagem de computadores e servidores<br>❤️Paixão por construir coisas</p>
 
 ###
@@ -29,6 +29,9 @@
 <ul>
   <li> ☕Não consigo estudar sem tomar um café bem forte antes.☕</li>
   <li> 🎵Gosto de ouvir músicas inspiradoras antes de começar novos projetos.🎵</li>
+  <div align="center">
+    <img height="200" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/pngtree-png-music-player-background-png-image_6089907%20(1).png" />
+ </div>
 </ul>
 
 ###
@@ -45,7 +48,7 @@
 
 ###
 
-<img align="right" alt="jpeg" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/110629737.jfif" width="100px"/>
+<a href="https://github.com/PiemonteF"><img align="right" alt="jpeg" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/110629737.jfif" width="100px"/></a>
 <p align="left">🙏 Estou sendo acompanhado pelo ótimo veterano: <strong style="color: #00008B;"><a href="https://github.com/PiemonteF">Fábio Piemonte.</a></strong> Obrigado por me ajudar nessa nova jornada.🙏 </p>
 <p align="left">📈Vamos crescer juntos!📈 </p>
 

@@ -3,12 +3,12 @@
 
 ###
 
-<p align="left">Olá! Meu nome é <strong style="color: #00008B;">Kaian Moura</strong>, tenho 20 anos e sou estudante do curso de ADM Tech no Inteli e tenho uma grande paixão por tecnologia.</p>
+<p align="left">Olá! Meu nome é <strong style="color: #00008B;">Kaian Moura</strong>, tenho 20 anos e sou estudante do curso de ADM Tech no <a target="_blank" href="https://www.inteli.edu.br/">Inteli</a> e tenho uma grande paixão por tecnologia.</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/WRWR3BE.jpeg" />
+  <a href="https://www.inteli.edu.br/"><img height="200" src="https://i.imgur.com/WRWR3BE.jpeg" /></a>
   
 </div>
 

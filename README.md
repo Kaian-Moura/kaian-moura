@@ -30,7 +30,7 @@
   <li> ☕Não consigo estudar sem tomar um café bem forte antes.☕</li>
   <li> 🎵Gosto de ouvir músicas inspiradoras antes de começar novos projetos.🎵</li><br>
   <div align="left">
-    <a href="https://www.youtube.com/watch?v=lDK9QqIzhwk"><img height="50" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/d24929bc-3c29-4f0c-8f2e-8007aea3febe.png" /></a>
+    <a href="https://www.youtube.com/watch?v=lDK9QqIzhwk"><img height="50" width="400" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/d24929bc-3c29-4f0c-8f2e-8007aea3febe.png" /></a>
  </div>
 </ul>
 

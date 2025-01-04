@@ -46,7 +46,7 @@
 ###
 
 <img align="right" alt="jpeg" src="https://github.com/Kaian-Moura/kaian-moura/blob/main/110629737.jfif" width="100px"/>
-<p align="left">🙏 Estou sendo acompanhado pelo ótimo veterano: <strong style="color: #00008B;">Fábio Piemonte.</strong> Obrigado por me ajudar nessa nova jornada.🙏 </p>
+<p align="left">🙏 Estou sendo acompanhado pelo ótimo veterano: <strong style="color: #00008B;"><a href="https://github.com/PiemonteF">Fábio Piemonte.</a></strong> Obrigado por me ajudar nessa nova jornada.🙏 </p>
 <p align="left">📈Vamos crescer juntos!📈 </p>
 
 ###
